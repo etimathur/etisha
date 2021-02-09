@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/etisha/static/css/main.672894df.chunk.css",
+    "main.js": "/etisha/static/js/main.a22d801a.chunk.js",
+    "main.js.map": "/etisha/static/js/main.a22d801a.chunk.js.map",
+    "runtime-main.js": "/etisha/static/js/runtime-main.a601ae85.js",
+    "runtime-main.js.map": "/etisha/static/js/runtime-main.a601ae85.js.map",
+    "static/js/2.9da4b45d.chunk.js": "/etisha/static/js/2.9da4b45d.chunk.js",
+    "static/js/2.9da4b45d.chunk.js.map": "/etisha/static/js/2.9da4b45d.chunk.js.map",
+    "static/js/3.b6150c9c.chunk.js": "/etisha/static/js/3.b6150c9c.chunk.js",
+    "static/js/3.b6150c9c.chunk.js.map": "/etisha/static/js/3.b6150c9c.chunk.js.map",
+    "index.html": "/etisha/index.html",
+    "static/css/main.672894df.chunk.css.map": "/etisha/static/css/main.672894df.chunk.css.map",
+    "static/js/2.9da4b45d.chunk.js.LICENSE.txt": "/etisha/static/js/2.9da4b45d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a601ae85.js",
+    "static/js/2.9da4b45d.chunk.js",
+    "static/css/main.672894df.chunk.css",
+    "static/js/main.a22d801a.chunk.js"
+  ]
+}
